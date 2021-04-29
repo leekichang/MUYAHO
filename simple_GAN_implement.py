@@ -1,5 +1,4 @@
 import numpy as np
-# import cupy as np # GPU를 사용하면 주석 해제
 import matplotlib.pyplot as plt
 from sklearn import datasets
 
